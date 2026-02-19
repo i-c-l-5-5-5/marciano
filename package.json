@@ -1,0 +1,14 @@
+{
+  "name": "npm utils",
+  "version": "1.0.0",
+  "description": "Uma pequena coleção de utilitários para o npm",
+  "author": "Italo Lopes",
+  "license": "MIT-0",
+  "dependencies": {
+    "minimatch": "^10.2.2",
+    "sensei": "file:sensei-0.3.9.tgz"
+  },
+  "scripts": {
+    "formatar": "sensei formatar --write"
+  }
+}
