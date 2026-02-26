@@ -1,4 +1,39 @@
-node_modules
-.prometheus
-dist
-coverage
+# ── Dependencies ─────────────────────────────────────
+node_modules/
+*.tgz
+
+# ── Build / Output ───────────────────────────────────
+dist/
+build/
+coverage/
+*.js.map
+
+# ── Generated data ───────────────────────────────────
+.prometheus/
+relatorios/
+
+# ── OS ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── IDEs ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Python (usado por aider, etc) ────────────────────
+__pycache__/
+.venv/
+*.pyc
+
+# ── Logs ─────────────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── Environment ──────────────────────────────────────
+.env
+.env.local
+.env.*.local
