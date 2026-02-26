@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # 🦙 Ollama — Modelos de IA Local
 
 ## O que é
@@ -90,3 +100,4 @@ Acesse em: `http://localhost:3000`
 ## Aviso sobre GPU
 
 Se aparecer `WARNING: No NVIDIA/AMD GPU detected`, o Ollama vai rodar apenas pela CPU. Funciona normalmente, mas é mais lento (~5-15 tokens/segundo no modelo 7b).
+

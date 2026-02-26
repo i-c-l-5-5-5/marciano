@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # ☁️ Modelos Gratuitos na Nuvem
 
 Rodam nos servidores do Google/Groq — não pesam nada no seu PC.
@@ -79,3 +89,4 @@ echo $GROQ_API_KEY
 Nunca exponha sua API Key publicamente (no terminal, commits, chats, etc).
 
 Se isso acontecer, acesse imediatamente o console do provedor, **delete a chave comprometida** e crie uma nova.
+

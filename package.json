@@ -37,7 +37,7 @@
   "dependencies": {
     "micromatch": "^4.0.8",
     "minimatch": "^10.2.3",
-    "prometheus": "file:prometheus-0.3.9.tgz"
+    "prometheus": "file:prometheus-0.4.0.tgz"
   },
   "overrides": {
     "lodash": "4.17.23",

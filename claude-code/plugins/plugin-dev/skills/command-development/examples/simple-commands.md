@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Simple Command Examples
 
 Basic slash command patterns for common use cases.
@@ -502,3 +512,4 @@ Analyze...
 5. **Document arguments:** Always use argument-hint
 6. **Provide examples:** Show usage in comments
 7. **Handle errors:** Consider missing arguments or files
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 description: Enable or disable hookify rules interactively
 allowed-tools: ["Glob", "Read", "Edit", "AskUserQuestion", "Skill"]
@@ -126,3 +136,4 @@ Changes apply immediately - no restart needed
 **File read/write errors:**
 - Inform user of specific error
 - Suggest manual editing as fallback
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Effort Parameter (Beta)
 
 **Add effort set to `"high"` during migration.** This is the default configuration for best performance with Opus 4.5.
@@ -68,3 +78,4 @@ Effort is independent of thinking budget:
 2. Best performance: high effort + high thinking budget
 3. Cost/latency optimization: medium effort
 4. Simple high-volume queries: low effort
+

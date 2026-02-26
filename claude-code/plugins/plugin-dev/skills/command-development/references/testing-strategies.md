@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Command Testing Strategies
 
 Comprehensive strategies for testing slash commands before deployment and distribution.
@@ -706,3 +716,4 @@ chmod 644 /path/to/referenced/file
 5. **Document tests**: Keep test scenarios for regression testing
 6. **Monitor in production**: Watch for issues after release
 7. **Iterate**: Improve based on real usage data
+

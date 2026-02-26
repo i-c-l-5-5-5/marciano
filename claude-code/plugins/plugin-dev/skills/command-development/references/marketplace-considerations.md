@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Marketplace Considerations for Commands
 
 Guidelines for creating commands designed for distribution and marketplace success.
@@ -902,3 +912,4 @@ fi
 5. **Ethical**: Privacy-respecting, user consent
 
 With these considerations, commands become marketplace-ready and delight users across diverse environments and use cases.
+

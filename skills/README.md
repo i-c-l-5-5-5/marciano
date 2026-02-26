@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # 🧠 Skills
 
 Skills são conjuntos de instruções, exemplos e recursos que estendem as capacidades de agentes de IA (como Claude Code, Aider, etc.) para tarefas específicas.
@@ -47,3 +57,4 @@ Copie o conteúdo do `SKILL.md` relevante como contexto para o agente.
 ### Manual
 
 Use as checklists e instruções como referência para seu próprio workflow.
+

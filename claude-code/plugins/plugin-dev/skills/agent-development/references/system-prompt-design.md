@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # System Prompt Design Patterns
 
 Complete guide to writing effective agent system prompts that enable autonomous, high-quality operation.
@@ -409,3 +419,4 @@ Effective system prompts are:
 - **Testable**: Defines measurable standards
 
 Use the patterns above as templates, customize for your domain, and iterate based on agent performance.
+

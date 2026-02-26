@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Component Organization Patterns
 
 Advanced patterns for organizing plugin components effectively.
@@ -565,3 +575,4 @@ plugin/
 1. **Avoid deep nesting**: Impacts discovery time
 2. **Minimize custom paths**: Use defaults when possible
 3. **Keep configurations small**: Large configs slow loading
+

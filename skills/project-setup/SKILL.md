@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 name: Project Setup
 description: Setup de novo projeto Node.js/TypeScript com boas práticas, linting, testes e CI
@@ -196,3 +206,4 @@ MIT
 - [ ] `.gitignore` completo
 - [ ] README com instruções de setup
 - [ ] Primeiro commit feito
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 description: Guided feature development with codebase understanding and architecture focus
 argument-hint: Optional feature description
@@ -123,3 +133,4 @@ If the user says "whatever you think is best", provide your recommendation and g
    - Suggested next steps
 
 ---
+

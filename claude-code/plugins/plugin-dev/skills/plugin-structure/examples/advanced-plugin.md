@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Advanced Plugin Example
 
 A complex, enterprise-grade plugin with MCP integration and advanced organization.
@@ -763,3 +773,4 @@ Built-in monitoring via lib integrations:
 - **Maintainability**: Shared libraries reduce duplication
 - **Flexibility**: Environment configs enable customization
 - **Security**: Layered security hooks and validation
+

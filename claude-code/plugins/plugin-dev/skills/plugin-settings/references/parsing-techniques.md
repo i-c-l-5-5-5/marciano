@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Settings File Parsing Techniques
 
 Complete guide to parsing `.claude/plugin-name.local.md` files in bash scripts.
@@ -547,3 +557,4 @@ esac
 ```
 
 This provides robust settings handling with defaults, validation, and error recovery.
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 description: Create and setup a new Claude Agent SDK application
 argument-hint: [project-name]
@@ -174,3 +184,4 @@ Once setup is complete and verified, provide the user with:
 - **ASK QUESTIONS ONE AT A TIME** - Do not ask multiple questions in a single response
 
 Begin by asking the FIRST requirement question only. Wait for the user's answer before proceeding to the next question.
+

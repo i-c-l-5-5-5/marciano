@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Real-World Plugin Settings Examples
 
 Detailed analysis of how production plugins use the `.claude/plugin-name.local.md` pattern.
@@ -393,3 +403,4 @@ The `.claude/plugin-name.local.md` pattern provides:
 - Supports both structured config (YAML) and freeform content (markdown)
 
 Use this pattern for any plugin that needs user-configurable behavior or state persistence.
+

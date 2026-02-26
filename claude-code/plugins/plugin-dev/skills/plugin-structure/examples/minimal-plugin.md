@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Minimal Plugin Example
 
 A bare-bones plugin with a single command.
@@ -81,3 +91,4 @@ To add more functionality:
 2. **Add metadata**: Update `plugin.json` with version, description, author
 3. **Add agents**: Create `agents/` directory with agent definitions
 4. **Add hooks**: Create `hooks/hooks.json` for event handling
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Prompt Snippets for Opus 4.5
 
 Only apply these snippets if the user explicitly requests them or reports a specific issue. By default, the migration should only update model strings.
@@ -104,3 +114,4 @@ Extended thinking is not enabled by default. It is only enabled if the API reque
 4. **Place logically** - Put coding snippets near other coding instructions, tool guidance near tool definitions, etc.
 5. **Preserve existing content** - Insert snippets without removing functional content
 6. **Summarize changes** - After migration, list all model string updates and prompt modifications made
+

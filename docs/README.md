@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # 📚 Guias e Referências
 
 Documentação organizada por temas. Cada guia é autocontido — basta abrir e seguir.
@@ -19,3 +29,4 @@ Para adicionar um novo guia:
 1. Crie o arquivo `.md` nesta pasta
 2. Use nomes descritivos em kebab-case (ex: `docker-basics.md`)
 3. Adicione uma entrada na tabela acima
+

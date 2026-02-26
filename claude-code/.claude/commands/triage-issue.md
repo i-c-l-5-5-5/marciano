@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 allowed-tools: Bash(gh label list:*),Bash(gh issue view:*),Bash(./scripts/edit-issue-labels.sh:*),Bash(gh search issues:*)
 description: Triage GitHub issues by analyzing and applying labels
@@ -64,3 +74,4 @@ GUIDELINES:
 - Only apply lifecycle labels (`needs-repro`, `needs-info`) to bugs — never to questions or enhancements
 - When in doubt, don't apply a lifecycle label — false positives are worse than missing labels
 - It's okay to not add any labels if none are clearly applicable
+

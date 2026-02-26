@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # MCP Server Types: Deep Dive
 
 Complete reference for all MCP server types supported in Claude Code plugins.
@@ -534,3 +544,4 @@ Choose the MCP server type based on your use case:
 - **WebSocket** for real-time bidirectional communication
 
 Test thoroughly and handle errors gracefully for robust MCP integration.
+
