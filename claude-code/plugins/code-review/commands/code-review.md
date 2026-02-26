@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 allowed-tools: Bash(gh issue view:*), Bash(gh search:*), Bash(gh issue list:*), Bash(gh pr comment:*), Bash(gh pr diff:*), Bash(gh pr view:*), Bash(gh pr list:*), mcp__github_inline_comment__create_inline_comment
 description: Code review a pull request
@@ -107,3 +117,4 @@ No issues found. Checked for bugs and CLAUDE.md compliance.
   - # sign after the file name
   - Line range format is L[start]-L[end]
   - Provide at least 1 line of context before and after, centered on the line you are commenting about (eg. if you are commenting about lines 5-6, you should link to `L4-7`)
+

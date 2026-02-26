@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 name: code-architect
 description: Designs feature architectures by analyzing existing codebase patterns and conventions, then providing comprehensive implementation blueprints with specific files to create/modify, component designs, data flows, and build sequences
@@ -32,3 +42,4 @@ Deliver a decisive, complete architecture blueprint that provides everything nee
 - **Critical Details**: Error handling, state management, testing, performance, and security considerations
 
 Make confident architectural choices rather than presenting multiple options. Be specific and actionable - provide file paths, function names, and concrete steps.
+

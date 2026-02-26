@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 name: Hook Development
 description: This skill should be used when the user asks to "create a hook", "add a PreToolUse/PostToolUse/Stop hook", "validate tool use", "implement prompt-based hooks", "use ${CLAUDE_PLUGIN_ROOT}", "set up event-driven automation", "block dangerous commands", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.
@@ -710,3 +720,4 @@ To implement hooks in a plugin:
 9. Document hooks in plugin README
 
 Focus on prompt-based hooks for most use cases. Reserve command hooks for performance-critical or deterministic checks.
+

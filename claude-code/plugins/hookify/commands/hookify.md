@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 description: Create hooks to prevent unwanted behaviors from conversation analysis or explicit instructions
 argument-hint: Optional specific behavior to address
@@ -229,3 +239,4 @@ Use the current working directory (where Claude Code was started) as the base pa
 3. Changes take effect on next tool use
 
 Use TodoWrite to track your progress through the steps.
+

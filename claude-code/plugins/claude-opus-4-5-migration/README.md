@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Claude Opus 4.5 Migration Plugin
 
 Migrate your code and prompts from Sonnet 4.x and Opus 4.1 to Opus 4.5.
@@ -19,3 +29,4 @@ Refer to our [prompting guide](https://platform.claude.com/docs/en/build-with-cl
 ## Authors
 
 William Hu (whu@anthropic.com)
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # 🧰 Dev Toolkit
 
 Toolkit de desenvolvimento pronto para clonar e usar. Skills pré-prontas, guias de referência, scripts utilitários e plugins curados — tudo organizado com boas práticas.
@@ -84,3 +94,4 @@ npm run guardian            # Verificação de segurança
 ## License
 
 MIT-0
+

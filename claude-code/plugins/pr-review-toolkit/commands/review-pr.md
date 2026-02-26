@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 description: "Comprehensive PR review using specialized agents"
 argument-hint: "[review-aspects]"
@@ -187,3 +197,4 @@ Run a comprehensive pull request review using multiple specialized agents, each 
 - Results are actionable with specific file:line references
 - Agents use appropriate models for their complexity
 - All agents available in `/agents` list
+

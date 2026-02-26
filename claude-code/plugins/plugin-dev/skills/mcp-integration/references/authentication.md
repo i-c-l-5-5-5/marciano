@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # MCP Authentication Patterns
 
 Complete guide to authentication methods for MCP servers in Claude Code plugins.
@@ -547,3 +557,4 @@ Choose the authentication method that matches your MCP server's requirements:
 - **Dynamic headers** for complex auth flows
 
 Always prioritize security and provide clear setup documentation for users.
+

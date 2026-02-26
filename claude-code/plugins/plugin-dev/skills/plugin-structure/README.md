@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Plugin Structure Skill
 
 Comprehensive guidance on Claude Code plugin architecture, directory layout, and best practices.
@@ -107,3 +117,4 @@ To update this skill:
 3. Add new examples/ for common patterns
 4. Update version in SKILL.md frontmatter
 5. Ensure all documentation uses imperative/infinitive form
+

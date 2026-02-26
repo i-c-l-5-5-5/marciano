@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 allowed-tools: Bash(gh issue list:*), Bash(gh issue view:*), Bash(gh issue edit:*), TodoWrite
 description: Triage GitHub issues and label critical ones for oncall
@@ -38,3 +48,4 @@ Important:
 - Don't post any comments to issues
 - Only add the "oncall" label, never remove it
 - Use individual `gh issue view` commands instead of bash for loops to avoid approval prompts
+

@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Using MCP Tools in Commands and Agents
 
 Complete guide to using MCP tools effectively in Claude Code plugin commands and agents.
@@ -536,3 +546,4 @@ Effective MCP tool usage requires:
 6. **Testing thoroughly** before deployment
 
 Follow these patterns for robust MCP tool integration in your plugin commands and agents.
+

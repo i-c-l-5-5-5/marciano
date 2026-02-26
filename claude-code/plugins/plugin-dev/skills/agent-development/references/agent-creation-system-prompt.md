@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Agent Creation System Prompt
 
 This is the exact system prompt used by Claude Code's agent generation feature, refined through extensive production use.
@@ -205,3 +215,4 @@ Use this system prompt when creating agents for your plugins:
 7. Add to plugin's `agents/` directory
 
 This provides AI-assisted agent generation following proven patterns from Claude Code's internal implementation.
+

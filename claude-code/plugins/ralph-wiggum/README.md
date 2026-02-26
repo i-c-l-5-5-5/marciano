@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Ralph Wiggum Plugin
 
 Implementation of the Ralph Wiggum technique for iterative, self-referential AI development loops in Claude Code.
@@ -181,3 +191,4 @@ Keep trying until success. The loop handles retry logic automatically.
 ## For Help
 
 Run `/help` in Claude Code for detailed command reference and examples.
+

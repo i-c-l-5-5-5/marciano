@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 # Hook Development Utility Scripts
 
 These scripts help validate, test, and lint hook implementations before deployment.
@@ -162,3 +172,4 @@ Check:
 - Use `set -euo pipefail`
 - Validate all input fields
 - Run the linter to catch issues
+

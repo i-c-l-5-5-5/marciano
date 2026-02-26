@@ -1,3 +1,13 @@
+<!-- AVISO DE PROVENIÊNCIA E AUTORIA -->
+
+> **Proveniência e Autoria**
+>
+> Este arquivo ou componente faz parte do ecosistema Doutor/Prometheus.
+> Distribuído sob os termos de licença MIT-0.
+> O uso do material neste componente não implica em apropriação ou violação de direitos autorais, morais ou de terceiros.
+> Em caso de problemas com nosso uso, entre em contato pelo email: ossmoralus@gmail.com
+
+
 ---
 allowed-tools: Bash(gh issue view:*), Bash(gh search:*), Bash(gh issue list:*), Bash(./scripts/comment-on-duplicates.sh:*)
 description: Find duplicate GitHub issues
@@ -21,3 +31,4 @@ Notes (be sure to tell this to your agents, too):
 - Use `gh` to interact with Github, rather than web fetch
 - Do not use other tools, beyond `gh` and the comment script (eg. don't use other MCP servers, file edit, etc.)
 - Make a todo list first
+
